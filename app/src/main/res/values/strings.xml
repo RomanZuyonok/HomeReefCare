@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">HomeReefCare</string>
+    <string name="app_name">Home Reef Care</string>
+    <string name="slogan_logo">BUILD YOUR TANK</string>
+    <string name="slogan">Your reef care platform</string>
+    <string name="app_ver">version 0.0.1</string>
+    <string name="create_account_info">Create an account to access more features of the platform</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="have_account">I already have an account</string>
+    <string name="create_password">CREATE PASSWORD</string>
+    <string name="sing_in">Sign-in to account</string>
+    <string name="forgot_pass">Forgot password?</string>
+    <string name="sign_btn">Sign-in</string>
+    <string name="your_prof">Your profile</string>
 </resources>

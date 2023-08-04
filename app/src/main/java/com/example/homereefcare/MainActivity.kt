@@ -1,8 +1,7 @@
-package com.example.homereefcare.ui
+package com.example.homereefcare
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.homereefcare.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
